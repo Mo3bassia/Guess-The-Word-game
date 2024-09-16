@@ -4,7 +4,7 @@ document.title = gameName;
 document.querySelector("h1").textContent = gameName;
 document.querySelector(
   "footer"
-).textContent = `${gameName} Game Created By Elzero Web School`;
+).textContent = `${gameName} Game Created By Mo3bassia`;
 
 let numberOfTries = 6;
 let numberOfLetters = 8;
